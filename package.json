@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest  --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanaSabih/testing-practice.git"
+  },
+  "author": "Hana Sabih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanaSabih/testing-practice/issues"
+  },
+  "homepage": "https://github.com/HanaSabih/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
